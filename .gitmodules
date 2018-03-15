@@ -1,0 +1,3 @@
+[submodule "external/pan-unit42"]
+	path = external/pan-unit42
+	url = git@github.com:pan-unit42/public_tools.git
